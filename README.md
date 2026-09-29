@@ -158,7 +158,7 @@ streamlit run ui/streamlit_app.py
 # 2. Build the image
 docker build -t agentic-chatbot:local .
 
-# 3. Start backend + UI containers together
+# 3. Start backend + UI containers together.
 docker compose up --build -d
 ```
 
