@@ -162,7 +162,7 @@ docker build -t agentic-chatbot:local .
 docker compose up --build -d
 ```
 
-- 💬 UI → http://localhost:8501
+- 💬 UI → https://agentic-chatbot-a4k6.onrender.com
 - 📄 API docs → http://localhost:8000/docs
 
 Stop everything:
