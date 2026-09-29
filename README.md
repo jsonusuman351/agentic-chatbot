@@ -198,7 +198,7 @@ Old container instance replaced — zero-downtime rolling deploy
 
 ---
 
-## 🧪 Example Queries to Try.
+## 🧪 Example Queries to Try..
 
 | Query | Expected behavior |
 |---|---|
