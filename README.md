@@ -172,9 +172,9 @@ docker compose down
 
 ---
 
-## 🔁 CI/CD Pipeline
+## 🔁 CI/CD Pipeline..
 
-Every push to `main` runs the full pipeline automatically — no manual build or deploy steps required.
+Every push to `main` runs the full pipeline automatically — no manual build or deploy steps required...
 
 ```
 Push to main
